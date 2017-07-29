@@ -13,3 +13,5 @@ settings.
 
 ### Tip using maven compile plugin with kotlin
 https://stackoverflow.com/questions/43980110/using-kotlin-class-in-java-cannot-find-symbol
+
+From: https://github.com/mikaelhg
